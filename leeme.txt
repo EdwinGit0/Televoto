@@ -1,0 +1,9 @@
+Módulo pequeño de admin para televotos, con Asterisk, AGI, PHP.
+Es necesario tener un central telefónico "ej. ISSABEL", copiar los archivos al servidor e instalar el modulo
+Importar la BD sql en el servidor 
+
+IMPORTANTE:
+Tener en cuenta los datos de las variables de conección para la BD
+
+
+   

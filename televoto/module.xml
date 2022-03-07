@@ -1,0 +1,22 @@
+<module>
+        <rawname>televoto</rawname>
+        <name>TeleVoto</name>
+        <version>1.0.0.0</version>
+        <publisher>Telefonia IP</publisher>
+        <license>GPLv3+</license>
+        <category>Applications</category>
+        <canuninstall>yes</canuninstall>
+        <candisable>yes</candisable>
+        <description>
+                Opcion para crear televotos.
+        </description>
+        <menuitems>
+                <televoto>TeleVoto</televoto>
+        </menuitems>
+        <supported>
+                <version>2.11</version>
+        </supported>
+        <location>release/2.11/ivr-2.11.0.10.tgz</location>
+        <md5sum>57d8316dc41fcd3153cefd00a5e3bdd5</md5sum>
+</module>
+
